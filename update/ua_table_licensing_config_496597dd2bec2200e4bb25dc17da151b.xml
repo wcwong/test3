@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>true</is_fulfillment>
+        <name>x_camu_test3_t</name>
+        <owner_condition table="x_camu_test3_t">opened_by=javascript:gs.getUserID()^EQ<item endquery="false" field="opened_by" goto="false" newquery="false" operator="=" or="false" value="javascript:gs.getUserID()"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </owner_condition>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>wcw@andrew.cmu.edu</sys_created_by>
+        <sys_created_on>2016-07-10 19:07:39</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>496597dd2bec2200e4bb25dc17da151b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_camu_test3_t</sys_name>
+        <sys_package display_value="test3" source="x_camu_test3">b8455f552bec2200e4bb25dc17da1563</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="test3">b8455f552bec2200e4bb25dc17da1563</sys_scope>
+        <sys_update_name>ua_table_licensing_config_496597dd2bec2200e4bb25dc17da151b</sys_update_name>
+        <sys_updated_by>wcw@andrew.cmu.edu</sys_updated_by>
+        <sys_updated_on>2016-07-10 19:07:39</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

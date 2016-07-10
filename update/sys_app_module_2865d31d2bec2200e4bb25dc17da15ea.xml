@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="t">6c65d31d2bec2200e4bb25dc17da15e9</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>ts</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_camu_test3_t</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_camu_test3_t_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>wcw@andrew.cmu.edu</sys_created_by>
+        <sys_created_on>2016-07-10 19:07:37</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>2865d31d2bec2200e4bb25dc17da15ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ts</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test3" source="x_camu_test3">b8455f552bec2200e4bb25dc17da1563</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="test3">b8455f552bec2200e4bb25dc17da1563</sys_scope>
+        <sys_update_name>sys_app_module_2865d31d2bec2200e4bb25dc17da15ea</sys_update_name>
+        <sys_updated_by>wcw@andrew.cmu.edu</sys_updated_by>
+        <sys_updated_on>2016-07-10 19:07:37</sys_updated_on>
+        <timeline_page/>
+        <title>ts</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="t">2465d31d2bec2200e4bb25dc17da15eb</application>
+        <filter/>
+        <name>ts</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_camu_test3_t_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>wcw@andrew.cmu.edu</sys_created_by>
+        <sys_created_on>2016-07-10 19:07:37</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>6c6597dd2bec2200e4bb25dc17da1502</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ts</sys_name>
+        <sys_package display_value="test3" source="x_camu_test3">b8455f552bec2200e4bb25dc17da1563</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="test3">b8455f552bec2200e4bb25dc17da1563</sys_scope>
+        <sys_update_name>sys_ui_module_6c6597dd2bec2200e4bb25dc17da1502</sys_update_name>
+        <sys_updated_by>wcw@andrew.cmu.edu</sys_updated_by>
+        <sys_updated_on>2016-07-10 19:07:37</sys_updated_on>
+        <table>x_camu_test3_t</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
